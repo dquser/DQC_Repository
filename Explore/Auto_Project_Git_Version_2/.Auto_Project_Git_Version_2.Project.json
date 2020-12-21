@@ -1,0 +1,22 @@
+{
+  "objectInfo" : {
+    "id" : "crcDbDTfmatfrfqBCBlvOW",
+    "name" : "Auto_Project_Git_Version_2",
+    "type" : "Project",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "project_desc1",
+        "contentType" : null,
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
