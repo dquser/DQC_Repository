@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "2yBHa2cW5imhuKXW0rnNuc",
+    "name" : "Dictionary3_Folder_Versioning",
+    "type" : "DICTIONARY",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "2yBHa2cW5imhuKXW0rnNuc"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "example&&&!!!!",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
