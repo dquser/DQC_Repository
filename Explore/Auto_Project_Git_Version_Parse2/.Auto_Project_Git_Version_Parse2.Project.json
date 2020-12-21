@@ -1,0 +1,22 @@
+{
+  "objectInfo" : {
+    "id" : "3GeXVX3Gms3hwdKnQnrHUJ",
+    "name" : "Auto_Project_Git_Version_Parse2",
+    "type" : "Project",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
