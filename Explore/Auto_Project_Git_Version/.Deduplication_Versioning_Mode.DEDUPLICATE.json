@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "73hskEnTPvhioqMcUlcNER",
+    "id" : "hlwu5k8nNgcc9e1m5i2GQi",
     "name" : "Deduplication_Versioning_Mode",
     "type" : "DEDUPLICATE",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "73hskEnTPvhioqMcUlcNER"
+        "repoHandle" : "hlwu5k8nNgcc9e1m5i2GQi"
       },
       "contextAttributes" : [ ],
       "additionalInfo" : {
