@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "aGCpoZE3Osje5k9lX9n8Wk",
+    "name" : "Rule_Spec_Versioning",
+    "type" : "RULE_SPECIFICATION",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "aGCpoZE3Osje5k9lX9n8Wk"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "Rule_Spec_Versioning",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
