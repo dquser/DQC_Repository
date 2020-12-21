@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "d9XgpDjSTo6jHbEmZPDB6H",
+    "name" : "Cleanse_Versioning",
+    "type" : "CLEANSE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "d9XgpDjSTo6jHbEmZPDB6H"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "cleanse",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
