@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "aKHDtA966UhgCjz6VJX76M",
+    "name" : "Rule Specification_Git",
+    "type" : "RULE_SPECIFICATION",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "aKHDtA966UhgCjz6VJX76M"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
