@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "6VgDYTLsVUGbm8CsVJjboe",
+    "name" : "Cleanse_Git",
+    "type" : "CLEANSE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "6VgDYTLsVUGbm8CsVJjboe"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}

@@ -1,0 +1,22 @@
+{
+  "objectInfo" : {
+    "id" : "7gBUrZRCPMrfbS6G2d0mAu",
+    "name" : "Auto_Project1_Git_Round1",
+    "type" : "Project",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "desc",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
