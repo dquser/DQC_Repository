@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "27Dhc2hq9MGc523LjrJAq2",
+    "name" : "ror_dictionary1",
+    "type" : "DICTIONARY",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "27Dhc2hq9MGc523LjrJAq2"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "example&&&!!!!",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}

@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "bsofrBaeoSlfD4Bw7JMCy7",
+    "name" : "Parse_9646",
+    "type" : "PARSE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "bsofrBaeoSlfD4Bw7JMCy7"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
