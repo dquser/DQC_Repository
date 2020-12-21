@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "hfWheeY6Faal5fgRbdiEuD",
+    "name" : "Verifier_Versioning_Discrete",
+    "type" : "VERIFIER",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "hfWheeY6Faal5fgRbdiEuD"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "Verifier_Versioning_Discrete",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
