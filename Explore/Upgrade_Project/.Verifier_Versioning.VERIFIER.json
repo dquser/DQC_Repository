@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "aqZjBxRgZoCgRwrxWHBOIg",
+    "name" : "Verifier_Versioning",
+    "type" : "VERIFIER",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "aqZjBxRgZoCgRwrxWHBOIg"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "Verifier",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
