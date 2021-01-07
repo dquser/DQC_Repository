@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "3gg7iF0ZLKggw2e2ZuPaml",
+    "name" : "Deduplicate_Versioning",
+    "type" : "DEDUPLICATE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "3gg7iF0ZLKggw2e2ZuPaml"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "duplicate",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
