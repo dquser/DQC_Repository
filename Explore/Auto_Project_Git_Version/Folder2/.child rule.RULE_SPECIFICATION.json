@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "gKaFKs0DL4Ch6I3ewiKP4m",
+    "id" : "eZ2aQVKmKYwe3v3ep45nWD",
     "name" : "child rule",
     "type" : "RULE_SPECIFICATION",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "gKaFKs0DL4Ch6I3ewiKP4m"
+        "repoHandle" : "eZ2aQVKmKYwe3v3ep45nWD"
       },
       "contextAttributes" : [ ],
       "additionalInfo" : {
@@ -21,7 +21,7 @@
   },
   "dataFileExtension" : "json",
   "objectRefs" : [ {
-    "id" : "cP1Tonz4tgajwgzIV2DmC5",
+    "id" : "5o70j93GyJ7eTvgKiMts8s",
     "name" : "ror_dictionary1",
     "type" : "DICTIONARY",
     "metadata" : {
@@ -30,7 +30,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "cP1Tonz4tgajwgzIV2DmC5"
+        "repoHandle" : "5o70j93GyJ7eTvgKiMts8s"
       },
       "contextAttributes" : [ ],
       "additionalInfo" : {
