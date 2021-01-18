@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "7gji3EcppmplpzNLLaYFsa",
+    "id" : "97PseaQr843kFb4e8jK88H",
     "name" : "parent rule",
     "type" : "RULE_SPECIFICATION",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "7gji3EcppmplpzNLLaYFsa"
+        "repoHandle" : "97PseaQr843kFb4e8jK88H"
       },
       "contextAttributes" : [ ],
       "additionalInfo" : {
@@ -21,7 +21,7 @@
   },
   "dataFileExtension" : "json",
   "objectRefs" : [ {
-    "id" : "eZ2aQVKmKYwe3v3ep45nWD",
+    "id" : "0tbD5kAswSUink34owzOgu",
     "name" : "child rule",
     "type" : "RULE_SPECIFICATION",
     "metadata" : {
@@ -30,7 +30,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "eZ2aQVKmKYwe3v3ep45nWD"
+        "repoHandle" : "0tbD5kAswSUink34owzOgu"
       },
       "contextAttributes" : [ ],
       "additionalInfo" : {
@@ -41,7 +41,7 @@
     },
     "path" : "/Explore/Auto_Project_Git_Version/Folder2"
   }, {
-    "id" : "lTxDnf6CKCBfCgOPOhyA40",
+    "id" : "ctgbCsndjUHdnNiriFHzGR",
     "name" : "ror_dictionary2",
     "type" : "DICTIONARY",
     "metadata" : {
@@ -50,7 +50,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "lTxDnf6CKCBfCgOPOhyA40"
+        "repoHandle" : "ctgbCsndjUHdnNiriFHzGR"
       },
       "contextAttributes" : [ ],
       "additionalInfo" : {
