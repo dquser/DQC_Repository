@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "4SR2yCi31g8gTHkBtAU3er",
+    "name" : "Parse_Versioning_2",
+    "type" : "PARSE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "4SR2yCi31g8gTHkBtAU3er"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : null,
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
