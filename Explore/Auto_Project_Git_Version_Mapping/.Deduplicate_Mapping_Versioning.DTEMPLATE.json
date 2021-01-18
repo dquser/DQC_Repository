@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "8iD6BVbCm2Ad6LyjqJFZQV",
+    "id" : "apf7HPdOzCXblpP9objnCv",
     "name" : "Deduplicate_Mapping_Versioning",
     "type" : "DTEMPLATE",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01067H17000000000094"
+        "repoHandle" : "01067H1700000000009H"
       },
       "contextAttributes" : [ {
         "name" : "id",
@@ -24,26 +24,6 @@
   },
   "dataFileExtension" : "zip",
   "objectRefs" : [ {
-    "id" : "eWDBXVcKrIZifTtZ9dqwGR",
-    "name" : "Deduplicate_9646_2",
-    "type" : "DEDUPLICATE",
-    "metadata" : {
-      "modelVersion" : {
-        "major" : 1,
-        "minor" : 0
-      },
-      "repoInfo" : {
-        "repoHandle" : "eWDBXVcKrIZifTtZ9dqwGR"
-      },
-      "contextAttributes" : null,
-      "additionalInfo" : {
-        "description" : "test desc",
-        "contentType" : "Binary",
-        "documentState" : "VALID"
-      }
-    },
-    "path" : "/Explore/Auto_Project_Git_Version/Folder2"
-  }, {
     "id" : "96OkGFfmqKFhzGq6hzD3kU",
     "name" : "Deduplicate_target_connection",
     "type" : "Connection",
@@ -63,6 +43,26 @@
       }
     },
     "path" : "/SYS"
+  }, {
+    "id" : "6Xtv0zxIipYhCnpz427XCS",
+    "name" : "Deduplicate_9646_2",
+    "type" : "DEDUPLICATE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "6Xtv0zxIipYhCnpz427XCS"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "test desc",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/Explore/Auto_Project_Git_Version/Folder2"
   }, {
     "id" : "2uxGbp0EBV1lPIdjotfPqj",
     "name" : "Deduplicate_source_connection",
