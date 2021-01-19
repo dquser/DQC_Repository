@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "ek1xmlWj24DfG6xoIKQvKV",
+    "id" : "43GrTApJskslg7YNuEp2SL",
     "name" : "Rule_Spec_Versioning_TO_Date",
     "type" : "RULE_SPECIFICATION",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "ek1xmlWj24DfG6xoIKQvKV"
+        "repoHandle" : "43GrTApJskslg7YNuEp2SL"
       },
       "contextAttributes" : [ ],
       "additionalInfo" : {
