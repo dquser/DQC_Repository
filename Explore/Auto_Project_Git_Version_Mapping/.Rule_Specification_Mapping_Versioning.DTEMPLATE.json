@@ -16,7 +16,7 @@
         "value" : "@1"
       } ],
       "additionalInfo" : {
-        "description" : "A simple mapping using rule specification",
+        "description" : "",
         "contentType" : "JSON",
         "documentState" : "VALID"
       }
