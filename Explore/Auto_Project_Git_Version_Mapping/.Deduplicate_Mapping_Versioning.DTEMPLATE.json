@@ -16,7 +16,7 @@
         "value" : "@1"
       } ],
       "additionalInfo" : {
-        "description" : "Dedupe mapping",
+        "description" : "",
         "contentType" : "JSON",
         "documentState" : "VALID"
       }
