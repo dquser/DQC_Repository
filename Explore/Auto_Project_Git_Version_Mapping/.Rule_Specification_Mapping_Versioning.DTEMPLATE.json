@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "8BEXwug2kmLgdjfbjWs4O3",
+    "id" : "9rkRZhGBFE4gtisXSK1UwC",
     "name" : "Rule_Specification_Mapping_Versioning",
     "type" : "DTEMPLATE",
     "metadata" : {
@@ -9,14 +9,14 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01067H1700000000009N"
+        "repoHandle" : "01067H170000000000A2"
       },
       "contextAttributes" : [ {
         "name" : "id",
         "value" : "@1"
       } ],
       "additionalInfo" : {
-        "description" : "",
+        "description" : "A simple mapping using rule specification",
         "contentType" : "JSON",
         "documentState" : "VALID"
       }
@@ -44,26 +44,6 @@
     },
     "path" : "/SYS"
   }, {
-    "id" : "97PseaQr843kFb4e8jK88H",
-    "name" : "parent rule",
-    "type" : "RULE_SPECIFICATION",
-    "metadata" : {
-      "modelVersion" : {
-        "major" : 1,
-        "minor" : 0
-      },
-      "repoInfo" : {
-        "repoHandle" : "97PseaQr843kFb4e8jK88H"
-      },
-      "contextAttributes" : null,
-      "additionalInfo" : {
-        "description" : null,
-        "contentType" : "Binary",
-        "documentState" : "VALID"
-      }
-    },
-    "path" : "/Explore/Auto_Project_Git_Version/Folder2"
-  }, {
     "id" : "9EYadlo7g5pjSSZfstZbKu",
     "name" : "target_connection",
     "type" : "Connection",
@@ -83,5 +63,25 @@
       }
     },
     "path" : "/SYS"
+  }, {
+    "id" : "0kKeBXt60XOfsv0ZQYDQYU",
+    "name" : "parent rule",
+    "type" : "RULE_SPECIFICATION",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "0kKeBXt60XOfsv0ZQYDQYU"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/Explore/Auto_Project_Git_Version/Folder2"
   } ]
 }
