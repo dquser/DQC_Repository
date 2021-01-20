@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "5tt6zTX9mJQhNwa0R1R3gz",
+    "id" : "ca3FpFDDDGalKKOkxtYkA7",
     "name" : "Cleanse_TC003",
     "type" : "CLEANSE",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "5tt6zTX9mJQhNwa0R1R3gz"
+        "repoHandle" : "ca3FpFDDDGalKKOkxtYkA7"
       },
       "contextAttributes" : [ ],
       "additionalInfo" : {
@@ -21,7 +21,7 @@
   },
   "dataFileExtension" : "json",
   "objectRefs" : [ {
-    "id" : "01vsWnFuFykgWX4kjhw18w",
+    "id" : "08MDzIzztMqkLGL0UHVoUG",
     "name" : "Dictionary_Cleanse_TC03",
     "type" : "DICTIONARY",
     "metadata" : {
@@ -30,7 +30,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01vsWnFuFykgWX4kjhw18w"
+        "repoHandle" : "08MDzIzztMqkLGL0UHVoUG"
       },
       "contextAttributes" : [ ],
       "additionalInfo" : {
