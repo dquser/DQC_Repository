@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "5XxBNBmfiiYgyX7uSyHbE5",
+    "id" : "5Rw5Gi7VgcSdi0wttV88Wg",
     "name" : "Deduplication_Versioning_Mode",
     "type" : "DEDUPLICATE",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "5XxBNBmfiiYgyX7uSyHbE5"
+        "repoHandle" : "5Rw5Gi7VgcSdi0wttV88Wg"
       },
       "contextAttributes" : [ ],
       "additionalInfo" : {
