@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "0N6eF5xugUuiVUHEzZ8vGH",
+    "id" : "7fxaJoAmK6skvKB9NkhI8n",
     "name" : "Parse_Mapping_Versioning",
     "type" : "DTEMPLATE",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01067H1700000000009V"
+        "repoHandle" : "01067H170000000000AB"
       },
       "contextAttributes" : [ {
         "name" : "id",
@@ -24,6 +24,26 @@
   },
   "dataFileExtension" : "zip",
   "objectRefs" : [ {
+    "id" : "6ce0cdnCGg6e1MIqybosoq",
+    "name" : "parse_email_9517",
+    "type" : "PARSE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "6ce0cdnCGg6e1MIqybosoq"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "parsing email",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/Explore/Auto_Project_Git_Version/Folder2"
+  }, {
     "id" : "hF6kl2btbM2e2VTgENdfyH",
     "name" : "parse_target_connection",
     "type" : "Connection",
@@ -43,26 +63,6 @@
       }
     },
     "path" : "/SYS"
-  }, {
-    "id" : "afO1DrcndiWdp6zbD8LLSP",
-    "name" : "parse_email_9517",
-    "type" : "PARSE",
-    "metadata" : {
-      "modelVersion" : {
-        "major" : 1,
-        "minor" : 0
-      },
-      "repoInfo" : {
-        "repoHandle" : "afO1DrcndiWdp6zbD8LLSP"
-      },
-      "contextAttributes" : null,
-      "additionalInfo" : {
-        "description" : "parsing email",
-        "contentType" : "Binary",
-        "documentState" : "VALID"
-      }
-    },
-    "path" : "/Explore/Auto_Project_Git_Version/Folder2"
   }, {
     "id" : "3wu3v2hWwwTbdj8GWd9a2Y",
     "name" : "parse_source_connection",
