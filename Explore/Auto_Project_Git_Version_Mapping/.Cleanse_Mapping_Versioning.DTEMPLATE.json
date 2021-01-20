@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "4IAHoWPhOg8dQdvtibUH0Q",
+    "id" : "4Sad3xzHs5viw4FoaRfK0c",
     "name" : "Cleanse_Mapping_Versioning",
     "type" : "DTEMPLATE",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01067H170000000000BA"
+        "repoHandle" : "01067H170000000000BL"
       },
       "contextAttributes" : [ {
         "name" : "id",
@@ -64,7 +64,7 @@
     },
     "path" : "/SYS"
   }, {
-    "id" : "3AY50BcBhw7fNnKh4CFGwl",
+    "id" : "6mzo2a4qFPFj44VqMeTP0R",
     "name" : "Cleanse_TC51",
     "type" : "CLEANSE",
     "metadata" : {
@@ -73,7 +73,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "3AY50BcBhw7fNnKh4CFGwl"
+        "repoHandle" : "6mzo2a4qFPFj44VqMeTP0R"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
