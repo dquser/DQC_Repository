@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "7x8o5Xr0HiScopPGt7naEJ",
+    "id" : "iumuHGPKCUsjGFbpnJ1W6k",
     "name" : "Rule_Specification_Mapping_Versioning",
     "type" : "DTEMPLATE",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01067H170000000000DX"
+        "repoHandle" : "01067H170000000000EN"
       },
       "contextAttributes" : [ {
         "name" : "id",
@@ -64,7 +64,7 @@
     },
     "path" : "/SYS"
   }, {
-    "id" : "4dLB3fuKegOl2tU23Wv0ED",
+    "id" : "jQkIQPheRyEgMmJ5TzHEi5",
     "name" : "parent rule",
     "type" : "RULE_SPECIFICATION",
     "metadata" : {
@@ -73,7 +73,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "4dLB3fuKegOl2tU23Wv0ED"
+        "repoHandle" : "jQkIQPheRyEgMmJ5TzHEi5"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
