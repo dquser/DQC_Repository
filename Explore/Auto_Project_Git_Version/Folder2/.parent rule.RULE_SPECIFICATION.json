@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "4dLB3fuKegOl2tU23Wv0ED",
+    "id" : "jQkIQPheRyEgMmJ5TzHEi5",
     "name" : "parent rule",
     "type" : "RULE_SPECIFICATION",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "4dLB3fuKegOl2tU23Wv0ED"
+        "repoHandle" : "jQkIQPheRyEgMmJ5TzHEi5"
       },
       "contextAttributes" : [ ],
       "additionalInfo" : {
@@ -21,27 +21,7 @@
   },
   "dataFileExtension" : "json",
   "objectRefs" : [ {
-    "id" : "7cL060BnUsJejwVVhjvXUW",
-    "name" : "child rule",
-    "type" : "RULE_SPECIFICATION",
-    "metadata" : {
-      "modelVersion" : {
-        "major" : 1,
-        "minor" : 0
-      },
-      "repoInfo" : {
-        "repoHandle" : "7cL060BnUsJejwVVhjvXUW"
-      },
-      "contextAttributes" : [ ],
-      "additionalInfo" : {
-        "description" : "child rule",
-        "contentType" : "Binary",
-        "documentState" : "VALID"
-      }
-    },
-    "path" : "/Explore/Auto_Project_Git_Version/Folder2"
-  }, {
-    "id" : "dIPEnFKwzStkdjZBiw2PwW",
+    "id" : "fKFgYy7tuyccL5pfGQoIKQ",
     "name" : "ror_dictionary2",
     "type" : "DICTIONARY",
     "metadata" : {
@@ -50,11 +30,31 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "dIPEnFKwzStkdjZBiw2PwW"
+        "repoHandle" : "fKFgYy7tuyccL5pfGQoIKQ"
       },
       "contextAttributes" : [ ],
       "additionalInfo" : {
         "description" : "example&&&!!!!",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/Explore/Auto_Project_Git_Version/Folder2"
+  }, {
+    "id" : "goWmgaQSQkNgSdGORffV8D",
+    "name" : "child rule",
+    "type" : "RULE_SPECIFICATION",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "goWmgaQSQkNgSdGORffV8D"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "child rule",
         "contentType" : "Binary",
         "documentState" : "VALID"
       }
