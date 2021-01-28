@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "0h7ZxDmsqDQhBRdL17tyk1",
+    "id" : "7U6BP1J4ngSh6TeqdrBnOj",
     "name" : "Cleanse_Mapping_Versioning",
     "type" : "DTEMPLATE",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01067H170000000000FK"
+        "repoHandle" : "01067H170000000000G0"
       },
       "contextAttributes" : [ {
         "name" : "id",
@@ -24,26 +24,6 @@
   },
   "dataFileExtension" : "zip",
   "objectRefs" : [ {
-    "id" : "4qO6imCc7oPbZXozX2E34D",
-    "name" : "Cleanse_TC51",
-    "type" : "CLEANSE",
-    "metadata" : {
-      "modelVersion" : {
-        "major" : 1,
-        "minor" : 0
-      },
-      "repoInfo" : {
-        "repoHandle" : "4qO6imCc7oPbZXozX2E34D"
-      },
-      "contextAttributes" : null,
-      "additionalInfo" : {
-        "description" : "Cannot open a Cleanse from the DI Explorer using the standard mechanisms which open in a new browser tab in the DQ Product",
-        "contentType" : "Binary",
-        "documentState" : "VALID"
-      }
-    },
-    "path" : "/Explore/Auto_Project_Git_Version/Folder2"
-  }, {
     "id" : "aHgcvNwPNNDg5TouqTIn8z",
     "name" : "src_connection",
     "type" : "Connection",
@@ -83,5 +63,25 @@
       }
     },
     "path" : "/SYS"
+  }, {
+    "id" : "hzMYOYrCAm6h0cFLUwYd4M",
+    "name" : "Cleanse_TC51",
+    "type" : "CLEANSE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "hzMYOYrCAm6h0cFLUwYd4M"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "Cannot open a Cleanse from the DI Explorer using the standard mechanisms which open in a new browser tab in the DQ Product",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/Explore/Auto_Project_Git_Version/Folder2"
   } ]
 }
