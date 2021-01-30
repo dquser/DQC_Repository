@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "5dZlVeyhZkRcQhiZyLvLKj",
+    "id" : "7Zk0H6qLNkrhGuzWAxHM2C",
     "name" : "parse_email_9517",
     "type" : "PARSE",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "5dZlVeyhZkRcQhiZyLvLKj"
+        "repoHandle" : "7Zk0H6qLNkrhGuzWAxHM2C"
       },
       "contextAttributes" : [ ],
       "additionalInfo" : {
