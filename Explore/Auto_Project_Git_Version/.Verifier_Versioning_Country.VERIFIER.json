@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "13zQ3iuIvISk6eO7YNINca",
+    "id" : "ayQSDLnuzYueVmE74Q2Yyh",
     "name" : "Verifier_Versioning_Country",
     "type" : "VERIFIER",
     "metadata" : {
@@ -9,11 +9,11 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "13zQ3iuIvISk6eO7YNINca"
+        "repoHandle" : "ayQSDLnuzYueVmE74Q2Yyh"
       },
       "contextAttributes" : [ ],
       "additionalInfo" : {
-        "description" : "Verifier_Versioning_Country",
+        "description" : "Verifier Versioning 2",
         "contentType" : "Binary",
         "documentState" : "VALID"
       }
