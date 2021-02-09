@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "hv7nDwG3L8ncBtVtauJngA",
+    "name" : "Versioning_PreBuiltParse_Project_2",
+    "type" : "PARSE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "hv7nDwG3L8ncBtVtauJngA"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "Versioning_PreBuiltParse_2",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
