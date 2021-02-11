@@ -1,0 +1,22 @@
+{
+  "objectInfo" : {
+    "id" : "4jFqeqeqrJQkU7i0JvJZqr",
+    "name" : "Auto_Project_Parse_Mapping",
+    "type" : "Project",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "Parse mapping",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
