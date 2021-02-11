@@ -1,0 +1,47 @@
+{
+  "objectInfo" : {
+    "id" : "c0N5LExfoWRcgO5kotPYIz",
+    "name" : "Parse_PreBuilt_Mapping2",
+    "type" : "DTEMPLATE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "01067H170000000000HX"
+      },
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "JSON",
+        "documentState" : "INVALID"
+      }
+    }
+  },
+  "dataFileExtension" : "zip",
+  "objectRefs" : [ {
+    "id" : "0aaXsI7hvlvkHRUMJZbPwp",
+    "name" : "Parse_Versioning_Prebuilt_Default_2",
+    "type" : "PARSE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "0aaXsI7hvlvkHRUMJZbPwp"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "Parse_Versioning_Prebuilt_Default_2",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/Explore/Default"
+  } ]
+}
