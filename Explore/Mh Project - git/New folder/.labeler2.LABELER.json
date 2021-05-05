@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "5b5dJ5DyOqNdDwtIEk1HYs",
+    "name" : "labeler2",
+    "type" : "LABELER",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "5b5dJ5DyOqNdDwtIEk1HYs"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
