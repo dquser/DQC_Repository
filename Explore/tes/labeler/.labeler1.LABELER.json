@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "gf4OEd4d1sLg7q8qdYK50R",
+    "name" : "labeler1",
+    "type" : "LABELER",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "gf4OEd4d1sLg7q8qdYK50R"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : null,
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
