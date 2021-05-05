@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "gXRvKk2PLe1cbyZCtNxcI7",
+    "name" : "labeler3",
+    "type" : "LABELER",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "gXRvKk2PLe1cbyZCtNxcI7"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "Binary",
+        "documentState" : "INVALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
