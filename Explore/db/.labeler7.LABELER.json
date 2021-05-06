@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "kIvNXebg9M1ixuywZB2BwP",
+    "name" : "labeler7",
+    "type" : "LABELER",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "kIvNXebg9M1ixuywZB2BwP"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
