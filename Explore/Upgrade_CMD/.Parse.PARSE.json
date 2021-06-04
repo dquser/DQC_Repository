@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "9sVIa4AJgS9jx7BMfJuniI",
+    "name" : "Parse",
+    "type" : "PARSE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "9sVIa4AJgS9jx7BMfJuniI"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
