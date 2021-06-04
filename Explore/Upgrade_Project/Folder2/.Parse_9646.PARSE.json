@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "95hpUQI2XaFf0LBMn09SA8",
+    "name" : "Parse_9646",
+    "type" : "PARSE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "95hpUQI2XaFf0LBMn09SA8"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
