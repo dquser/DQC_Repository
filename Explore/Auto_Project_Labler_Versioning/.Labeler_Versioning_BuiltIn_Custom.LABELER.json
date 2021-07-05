@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "9Fn6FSzfiCYhQPZkrZDqYB",
+    "name" : "Labeler_Versioning_BuiltIn_Custom",
+    "type" : "LABELER",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "9Fn6FSzfiCYhQPZkrZDqYB"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
