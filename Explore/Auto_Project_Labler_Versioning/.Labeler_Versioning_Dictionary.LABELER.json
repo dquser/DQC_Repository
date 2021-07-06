@@ -1,0 +1,44 @@
+{
+  "objectInfo" : {
+    "id" : "hbHJMqPyjkibrv6zWyjZQM",
+    "name" : "Labeler_Versioning_Dictionary",
+    "type" : "LABELER",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "hbHJMqPyjkibrv6zWyjZQM"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ {
+    "id" : "2TiEB8NmwWMi2gnqPM4oe3",
+    "name" : "Dictionary_labeler",
+    "type" : "DICTIONARY",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "2TiEB8NmwWMi2gnqPM4oe3"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/Explore/Auto_Project_Labler_Versioning"
+  } ]
+}
