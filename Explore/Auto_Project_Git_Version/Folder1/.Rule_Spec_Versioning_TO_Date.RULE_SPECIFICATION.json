@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "2m1wdlm6bmZjaxbjFst5gv",
+    "id" : "0pRejbUhcAEeY4smDk06we",
     "name" : "Rule_Spec_Versioning_TO_Date",
     "type" : "RULE_SPECIFICATION",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "2m1wdlm6bmZjaxbjFst5gv"
+        "repoHandle" : "0pRejbUhcAEeY4smDk06we"
       },
       "contextAttributes" : [ ],
       "additionalInfo" : {
