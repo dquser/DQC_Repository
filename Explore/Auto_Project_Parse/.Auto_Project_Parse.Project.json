@@ -1,8 +1,8 @@
 {
   "objectInfo" : {
-    "id" : "5ex5pk4lXSYgJZ7ltjRzKx",
-    "name" : "Folder1",
-    "type" : "Folder",
+    "id" : "1m1A48ZiUjfebGA3Rlk9I7",
+    "name" : "Auto_Project_Parse",
+    "type" : "Project",
     "metadata" : {
       "modelVersion" : {
         "major" : 0,
@@ -11,7 +11,7 @@
       "repoInfo" : null,
       "contextAttributes" : [ ],
       "additionalInfo" : {
-        "description" : "",
+        "description" : "Parse features project",
         "contentType" : "Binary",
         "documentState" : "COMPLETE"
       }
