@@ -1,19 +1,19 @@
 {
   "objectInfo" : {
-    "id" : "2pcqLoahWiAeIFQfTgJMY9",
-    "name" : "Deduplicate_9646_2",
-    "type" : "DEDUPLICATE",
+    "id" : "5KTCJQRnluUcazAIIkZxiI",
+    "name" : "TC105_MULTITC110",
+    "type" : "VERIFIER",
     "metadata" : {
       "modelVersion" : {
         "major" : 1,
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "2pcqLoahWiAeIFQfTgJMY9"
+        "repoHandle" : "5KTCJQRnluUcazAIIkZxiI"
       },
       "contextAttributes" : [ ],
       "additionalInfo" : {
-        "description" : "test desc",
+        "description" : "TC105_MULTI- New Description 110",
         "contentType" : "Binary",
         "documentState" : "VALID"
       }

@@ -1,19 +1,19 @@
 {
   "objectInfo" : {
-    "id" : "2pcqLoahWiAeIFQfTgJMY9",
-    "name" : "Deduplicate_9646_2",
-    "type" : "DEDUPLICATE",
+    "id" : "9vrcCpEyQjTjnjJYYhPQGO",
+    "name" : "Verifier_9646",
+    "type" : "VERIFIER",
     "metadata" : {
       "modelVersion" : {
         "major" : 1,
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "2pcqLoahWiAeIFQfTgJMY9"
+        "repoHandle" : "9vrcCpEyQjTjnjJYYhPQGO"
       },
       "contextAttributes" : [ ],
       "additionalInfo" : {
-        "description" : "test desc",
+        "description" : null,
         "contentType" : "Binary",
         "documentState" : "VALID"
       }
