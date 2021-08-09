@@ -1,0 +1,87 @@
+{
+  "objectInfo" : {
+    "id" : "ah9OHNhSQgHkoOQtWT8XYH",
+    "name" : "Verifier_Mapping_Versioning_2",
+    "type" : "DTEMPLATE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "01067H170000000000J8"
+      },
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "JSON",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "zip",
+  "objectRefs" : [ {
+    "id" : "5KTCJQRnluUcazAIIkZxiI",
+    "name" : "TC105_MULTITC110",
+    "type" : "VERIFIER",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "5KTCJQRnluUcazAIIkZxiI"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "TC105_MULTI- New Description 110",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/Explore/Auto_Project_Git_Version/Folder2"
+  }, {
+    "id" : "kvEftCo0jwVcD8laJqLVaB",
+    "name" : "Verifier_target_connection",
+    "type" : "Connection",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "01067H0B00000000000P"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "Target Flat File Connection.",
+        "contentType" : "JSON",
+        "documentState" : "COMPLETE"
+      }
+    },
+    "path" : "/SYS"
+  }, {
+    "id" : "7XhUMywpLMYjvUIOIE6fSa",
+    "name" : "Verifier_source_connection",
+    "type" : "Connection",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "01067H0B00000000000O"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "Source Flat File Connection.",
+        "contentType" : "JSON",
+        "documentState" : "COMPLETE"
+      }
+    },
+    "path" : "/SYS"
+  } ]
+}
