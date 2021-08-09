@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "7zg08UVTPqien5BOvg0jmK",
+    "id" : "4B3DcLJMmachsFTnPCcWyT",
     "name" : "Rule_Specification_Mapping_Versioning",
     "type" : "DTEMPLATE",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01067H170000000000HO"
+        "repoHandle" : "01067H170000000000JC"
       },
       "contextAttributes" : [ {
         "name" : "id",
@@ -44,26 +44,6 @@
     },
     "path" : "/SYS"
   }, {
-    "id" : "2KJl2RHYslSl0wqhvqqUk0",
-    "name" : "parent rule",
-    "type" : "RULE_SPECIFICATION",
-    "metadata" : {
-      "modelVersion" : {
-        "major" : 1,
-        "minor" : 0
-      },
-      "repoInfo" : {
-        "repoHandle" : "2KJl2RHYslSl0wqhvqqUk0"
-      },
-      "contextAttributes" : null,
-      "additionalInfo" : {
-        "description" : null,
-        "contentType" : "Binary",
-        "documentState" : "VALID"
-      }
-    },
-    "path" : "/Explore/Auto_Project_Git_Version/Folder2"
-  }, {
     "id" : "9EYadlo7g5pjSSZfstZbKu",
     "name" : "target_connection",
     "type" : "Connection",
@@ -83,5 +63,25 @@
       }
     },
     "path" : "/SYS"
+  }, {
+    "id" : "hC046u4cHCdfT6xnXf4oCc",
+    "name" : "parent rule",
+    "type" : "RULE_SPECIFICATION",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "hC046u4cHCdfT6xnXf4oCc"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/Explore/Auto_Project_Git_Version/Folder2"
   } ]
 }
