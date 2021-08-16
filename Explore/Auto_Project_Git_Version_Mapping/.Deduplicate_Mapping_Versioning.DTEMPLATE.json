@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "5Vr1IyA6t02jWzj5zKNQwp",
+    "id" : "ajF8QQoPuSegGOu7iUR6Gy",
     "name" : "Deduplicate_Mapping_Versioning",
     "type" : "DTEMPLATE",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01067H170000000000J4"
+        "repoHandle" : "01067H170000000000JY"
       },
       "contextAttributes" : [ {
         "name" : "id",
@@ -44,7 +44,7 @@
     },
     "path" : "/SYS"
   }, {
-    "id" : "2pcqLoahWiAeIFQfTgJMY9",
+    "id" : "5AsgsvGwRyucPdDGH2PWyh",
     "name" : "Deduplicate_9646_2",
     "type" : "DEDUPLICATE",
     "metadata" : {
@@ -53,7 +53,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "2pcqLoahWiAeIFQfTgJMY9"
+        "repoHandle" : "5AsgsvGwRyucPdDGH2PWyh"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
