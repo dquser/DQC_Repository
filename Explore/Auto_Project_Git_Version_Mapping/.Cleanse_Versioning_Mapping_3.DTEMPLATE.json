@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "38LYDlaTyosdKtYmjUZWOL",
+    "id" : "72SCwPVHMgte0o1Z1Yskk1",
     "name" : "Cleanse_Versioning_Mapping_3",
     "type" : "DTEMPLATE",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01067H170000000000HV"
+        "repoHandle" : "01067H170000000000KC"
       },
       "contextAttributes" : [ {
         "name" : "id",
