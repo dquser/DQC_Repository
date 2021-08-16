@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "7zmUsmwGQE4fuvtUazKbQR",
+    "id" : "9uM4HZfb2QSlORtr0zaSGv",
     "name" : "Versioning_PreBuiltParse_Project_3",
     "type" : "PARSE",
     "metadata" : {
@@ -9,12 +9,12 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "7zmUsmwGQE4fuvtUazKbQR"
+        "repoHandle" : "9uM4HZfb2QSlORtr0zaSGv"
       },
       "contextAttributes" : [ ],
       "additionalInfo" : {
         "description" : "Versioning_PreBuiltParse_1",
-        "contentType" : null,
+        "contentType" : "Binary",
         "documentState" : "VALID"
       }
     }
