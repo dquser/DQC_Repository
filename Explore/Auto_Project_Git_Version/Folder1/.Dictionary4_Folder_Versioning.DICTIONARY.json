@@ -1,19 +1,19 @@
 {
   "objectInfo" : {
-    "id" : "0gvOQiHllpmj9Lc7tBZcQx",
-    "name" : "Verifier_Versioning_Input",
-    "type" : "VERIFIER",
+    "id" : "5AWS8vV2LWxcnD8Mm1Hu0E",
+    "name" : "Dictionary4_Folder_Versioning",
+    "type" : "DICTIONARY",
     "metadata" : {
       "modelVersion" : {
         "major" : 1,
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0gvOQiHllpmj9Lc7tBZcQx"
+        "repoHandle" : "5AWS8vV2LWxcnD8Mm1Hu0E"
       },
       "contextAttributes" : [ ],
       "additionalInfo" : {
-        "description" : "Verifier_Versioning_Input",
+        "description" : "example&&&!!!!",
         "contentType" : "Binary",
         "documentState" : "VALID"
       }
