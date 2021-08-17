@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "1ZjRhC8ewbbeTJhEPhRUK3",
+    "id" : "gOJdQJX8ZK9lriNkooknoT",
     "name" : "Labeler_Versioning_BuiltIn_Custom",
     "type" : "LABELER",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "1ZjRhC8ewbbeTJhEPhRUK3"
+        "repoHandle" : "gOJdQJX8ZK9lriNkooknoT"
       },
       "contextAttributes" : [ ],
       "additionalInfo" : {
