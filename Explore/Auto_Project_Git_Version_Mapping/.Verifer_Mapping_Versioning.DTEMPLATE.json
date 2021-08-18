@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "0taT7zI7fmjbcxBVO7FocT",
+    "id" : "0yyjiiv5N4ZgPCdtjo49wb",
     "name" : "Verifer_Mapping_Versioning",
     "type" : "DTEMPLATE",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01067H170000000000L1"
+        "repoHandle" : "01067H170000000000LE"
       },
       "contextAttributes" : [ {
         "name" : "id",
@@ -23,65 +23,5 @@
     }
   },
   "dataFileExtension" : "zip",
-  "objectRefs" : [ {
-    "id" : "aMAjWE8oLpuldG8rogY3qF",
-    "name" : "Verifier_9646",
-    "type" : "VERIFIER",
-    "metadata" : {
-      "modelVersion" : {
-        "major" : 1,
-        "minor" : 0
-      },
-      "repoInfo" : {
-        "repoHandle" : "aMAjWE8oLpuldG8rogY3qF"
-      },
-      "contextAttributes" : null,
-      "additionalInfo" : {
-        "description" : null,
-        "contentType" : "Binary",
-        "documentState" : "VALID"
-      }
-    },
-    "path" : "/Explore/Auto_Project_Git_Version/Folder2"
-  }, {
-    "id" : "kvEftCo0jwVcD8laJqLVaB",
-    "name" : "Verifier_target_connection",
-    "type" : "Connection",
-    "metadata" : {
-      "modelVersion" : {
-        "major" : 0,
-        "minor" : 0
-      },
-      "repoInfo" : {
-        "repoHandle" : "01067H0B00000000000P"
-      },
-      "contextAttributes" : null,
-      "additionalInfo" : {
-        "description" : "Target Flat File Connection.",
-        "contentType" : "JSON",
-        "documentState" : "COMPLETE"
-      }
-    },
-    "path" : "/SYS"
-  }, {
-    "id" : "7XhUMywpLMYjvUIOIE6fSa",
-    "name" : "Verifier_source_connection",
-    "type" : "Connection",
-    "metadata" : {
-      "modelVersion" : {
-        "major" : 0,
-        "minor" : 0
-      },
-      "repoInfo" : {
-        "repoHandle" : "01067H0B00000000000O"
-      },
-      "contextAttributes" : null,
-      "additionalInfo" : {
-        "description" : "Source Flat File Connection.",
-        "contentType" : "JSON",
-        "documentState" : "COMPLETE"
-      }
-    },
-    "path" : "/SYS"
-  } ]
+  "objectRefs" : [ ]
 }
