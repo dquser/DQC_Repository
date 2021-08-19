@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "3dHr7sicEoUkaMWCWuSLGo",
+    "id" : "5HJ2hWyNoCgbGivSPwYPaj",
     "name" : "Deduplicate_Mapping_Versioning_2",
     "type" : "DTEMPLATE",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "012S181700000000000G"
+        "repoHandle" : "012S181700000000000T"
       },
       "contextAttributes" : [ {
         "name" : "id",
@@ -44,6 +44,26 @@
     },
     "path" : "/SYS"
   }, {
+    "id" : "6LSwZsJUDgVfNUKl91bOAD",
+    "name" : "Deduplicate_9646",
+    "type" : "DEDUPLICATE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "6LSwZsJUDgVfNUKl91bOAD"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "dedup test to resync in CMD",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/Explore/Auto_Project_Git_Version/Folder2"
+  }, {
     "id" : "92bQA6tuH4OlMCvvuUHKey",
     "name" : "Deduplicate_source_connection",
     "type" : "Connection",
@@ -63,25 +83,5 @@
       }
     },
     "path" : "/SYS"
-  }, {
-    "id" : "gdiVnUHLyykkxTaFhDYXKa",
-    "name" : "Deduplicate_9646",
-    "type" : "DEDUPLICATE",
-    "metadata" : {
-      "modelVersion" : {
-        "major" : 1,
-        "minor" : 0
-      },
-      "repoInfo" : {
-        "repoHandle" : "gdiVnUHLyykkxTaFhDYXKa"
-      },
-      "contextAttributes" : null,
-      "additionalInfo" : {
-        "description" : "dedup test to resync in CMD",
-        "contentType" : "Binary",
-        "documentState" : "VALID"
-      }
-    },
-    "path" : "/Explore/Auto_Project_Git_Version/Folder2"
   } ]
 }
