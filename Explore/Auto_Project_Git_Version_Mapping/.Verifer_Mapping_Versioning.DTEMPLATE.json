@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "0yyjiiv5N4ZgPCdtjo49wb",
+    "id" : "2vU4O593YZClfSh0gbvvot",
     "name" : "Verifer_Mapping_Versioning",
     "type" : "DTEMPLATE",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01067H170000000000LE"
+        "repoHandle" : "012S181700000000000S"
       },
       "contextAttributes" : [ {
         "name" : "id",
@@ -23,5 +23,65 @@
     }
   },
   "dataFileExtension" : "zip",
-  "objectRefs" : [ ]
+  "objectRefs" : [ {
+    "id" : "56FWMKOjk51eRoQAhPc66F",
+    "name" : "Verifier_source_connection",
+    "type" : "Connection",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "012S180B00000000000D"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "Source Flat File Connection.",
+        "contentType" : "JSON",
+        "documentState" : "COMPLETE"
+      }
+    },
+    "path" : "/SYS"
+  }, {
+    "id" : "dZhIB8TOwA3hKKENBx1raj",
+    "name" : "Verifier_target_connection",
+    "type" : "Connection",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "012S180B00000000000C"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "Target Flat File Connection.",
+        "contentType" : "JSON",
+        "documentState" : "COMPLETE"
+      }
+    },
+    "path" : "/SYS"
+  }, {
+    "id" : "6qDTBdz5hRrbqTzMlHmvyo",
+    "name" : "Verifier_9646",
+    "type" : "VERIFIER",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "6qDTBdz5hRrbqTzMlHmvyo"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/Explore/Auto_Project_Git_Version/Folder2"
+  } ]
 }
