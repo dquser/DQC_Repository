@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "3RJ5yvrOpLhiCW8mwrSuqk",
+    "name" : "Labeler",
+    "type" : "LABELER",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "3RJ5yvrOpLhiCW8mwrSuqk"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "Binary",
+        "documentState" : "INVALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
