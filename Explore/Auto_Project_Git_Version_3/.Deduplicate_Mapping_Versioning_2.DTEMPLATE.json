@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "1h1l8kXXeuPjLod5BfQHwx",
+    "id" : "j80GuUZXgG8j9P9cAmT5MP",
     "name" : "Deduplicate_Mapping_Versioning_2",
     "type" : "DTEMPLATE",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01067H170000000000A5"
+        "repoHandle" : "010ARW17000000000022"
       },
       "contextAttributes" : [ {
         "name" : "id",
@@ -24,7 +24,7 @@
   },
   "dataFileExtension" : "zip",
   "objectRefs" : [ {
-    "id" : "96OkGFfmqKFhzGq6hzD3kU",
+    "id" : "9fnXHlcNmnbjTPfC3F0ccK",
     "name" : "Deduplicate_target_connection",
     "type" : "Connection",
     "metadata" : {
@@ -33,7 +33,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01067H0B000000000005"
+        "repoHandle" : "010ARW0B000000000006"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
@@ -44,7 +44,7 @@
     },
     "path" : "/SYS"
   }, {
-    "id" : "2uxGbp0EBV1lPIdjotfPqj",
+    "id" : "0IZ1nJKj1NScUYmzKXxAOq",
     "name" : "Deduplicate_source_connection",
     "type" : "Connection",
     "metadata" : {
@@ -53,7 +53,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01067H0B000000000004"
+        "repoHandle" : "010ARW0B000000000007"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
@@ -64,7 +64,7 @@
     },
     "path" : "/SYS"
   }, {
-    "id" : "7SLo7ckMR2obYSBRsFWVUO",
+    "id" : "2nv3oFLoTv4hSq9aAyU3WS",
     "name" : "Deduplicate_9646",
     "type" : "DEDUPLICATE",
     "metadata" : {
@@ -73,7 +73,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "7SLo7ckMR2obYSBRsFWVUO"
+        "repoHandle" : "2nv3oFLoTv4hSq9aAyU3WS"
       },
       "contextAttributes" : null,
       "additionalInfo" : {

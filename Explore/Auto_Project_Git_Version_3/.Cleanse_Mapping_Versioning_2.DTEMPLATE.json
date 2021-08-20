@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "hcsd19b5JAwlgwi5tfWpOT",
+    "id" : "58IP6Oh2MAabupzmSUtryj",
     "name" : "Cleanse_Mapping_Versioning_2",
     "type" : "DTEMPLATE",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01067H170000000000A3"
+        "repoHandle" : "010ARW17000000000023"
       },
       "contextAttributes" : [ {
         "name" : "id",
@@ -18,14 +18,14 @@
       "additionalInfo" : {
         "description" : "A simpleMapping Using Cleanse",
         "contentType" : null,
-        "documentState" : "VALID"
+        "documentState" : "INVALID"
       }
     }
   },
   "dataFileExtension" : "zip",
   "objectRefs" : [ {
-    "id" : "9ktCfZFGKYnlHA6kqs28wY",
-    "name" : "cleanse_source_connection",
+    "id" : "8oLHWZXWwDteBDqTq7rR6p",
+    "name" : "cleanse_target_connection",
     "type" : "Connection",
     "metadata" : {
       "modelVersion" : {
@@ -33,18 +33,18 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01067H0B00000000000M"
+        "repoHandle" : "010ARW0B000000000005"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
-        "description" : "Source Flat File Connection.",
+        "description" : "Target Flat File Connection.",
         "contentType" : "JSON",
         "documentState" : "COMPLETE"
       }
     },
     "path" : "/SYS"
   }, {
-    "id" : "8YRCqD2ZR0wkccp7fD43ok",
+    "id" : "2NypKzrDKbMgJDPgkZoE6N",
     "name" : "Cleanse_TC003",
     "type" : "CLEANSE",
     "metadata" : {
@@ -53,7 +53,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "8YRCqD2ZR0wkccp7fD43ok"
+        "repoHandle" : "2NypKzrDKbMgJDPgkZoE6N"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
@@ -64,8 +64,8 @@
     },
     "path" : "/Explore/Auto_Project_Git_Version/Folder2"
   }, {
-    "id" : "371IjZJ1WDYi1iA7EMyxKx",
-    "name" : "cleanse_target_connection",
+    "id" : "9cSK2TIyxQuf3y2p25ENa1",
+    "name" : "cleanse_source_connection",
     "type" : "Connection",
     "metadata" : {
       "modelVersion" : {
@@ -73,11 +73,11 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01067H0B00000000000N"
+        "repoHandle" : "010ARW0B000000000004"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
-        "description" : "Target Flat File Connection.",
+        "description" : "Source Flat File Connection.",
         "contentType" : "JSON",
         "documentState" : "COMPLETE"
       }
