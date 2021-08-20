@@ -1,0 +1,44 @@
+{
+  "objectInfo" : {
+    "id" : "9t34UeFajkleEJkRR18jQG",
+    "name" : "Labeler1",
+    "type" : "LABELER",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "9t34UeFajkleEJkRR18jQG"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ {
+    "id" : "47OYDaAc3kJibE5FCIIYI1",
+    "name" : "Dictionary1_Project_Versioning_21",
+    "type" : "DICTIONARY",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "47OYDaAc3kJibE5FCIIYI1"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "example&&&!!!!",
+        "contentType" : null,
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/Explore/Default"
+  } ]
+}
