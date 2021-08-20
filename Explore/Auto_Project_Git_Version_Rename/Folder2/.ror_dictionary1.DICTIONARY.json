@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "83Fp3NKSSljkIgICdsqVUL",
+    "name" : "ror_dictionary1",
+    "type" : "DICTIONARY",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "83Fp3NKSSljkIgICdsqVUL"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "example&&&!!!!",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}

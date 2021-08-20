@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "4QDJi0WWlw8fh4JNNHCHUQ",
+    "name" : "TC105_MULTITC110",
+    "type" : "VERIFIER",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "4QDJi0WWlw8fh4JNNHCHUQ"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "TC105_MULTI- New Description 110",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
