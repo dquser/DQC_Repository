@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "iXkzNNWy1q6gmkreBjZzcl",
+    "id" : "k08wbGJzpylfweb1GJaB29",
     "name" : "Verifier_Versioning_Input",
     "type" : "VERIFIER",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "iXkzNNWy1q6gmkreBjZzcl"
+        "repoHandle" : "k08wbGJzpylfweb1GJaB29"
       },
       "contextAttributes" : [ ],
       "additionalInfo" : {
