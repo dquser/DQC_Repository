@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "3DFtvNa992HbvVslsz7nUn",
+    "id" : "lUqt92cC9OCg3x1tMwl5yq",
     "name" : "Deduplication_Versioning_2",
     "type" : "DEDUPLICATE",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "3DFtvNa992HbvVslsz7nUn"
+        "repoHandle" : "lUqt92cC9OCg3x1tMwl5yq"
       },
       "contextAttributes" : [ ],
       "additionalInfo" : {
