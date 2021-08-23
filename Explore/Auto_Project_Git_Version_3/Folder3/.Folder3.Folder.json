@@ -1,21 +1,19 @@
 {
   "objectInfo" : {
-    "id" : "2wLwdTeAlwJeb9Q4KT7FuU",
-    "name" : "Parse_Versioning_2",
-    "type" : "PARSE",
+    "id" : "5PKexxBSF4gific3zCM5G5",
+    "name" : "Folder3",
+    "type" : "Folder",
     "metadata" : {
       "modelVersion" : {
-        "major" : 1,
+        "major" : 0,
         "minor" : 0
       },
-      "repoInfo" : {
-        "repoHandle" : "2wLwdTeAlwJeb9Q4KT7FuU"
-      },
+      "repoInfo" : null,
       "contextAttributes" : [ ],
       "additionalInfo" : {
-        "description" : null,
+        "description" : "folder_desc",
         "contentType" : null,
-        "documentState" : "VALID"
+        "documentState" : "COMPLETE"
       }
     }
   },
