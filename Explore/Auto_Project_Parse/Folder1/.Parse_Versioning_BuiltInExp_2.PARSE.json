@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "3LegZRyL3Slhuav16PSRY5",
+    "name" : "Parse_Versioning_BuiltInExp_2",
+    "type" : "PARSE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "3LegZRyL3Slhuav16PSRY5"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "Parse_Versioning_BuiltInExp_2",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
