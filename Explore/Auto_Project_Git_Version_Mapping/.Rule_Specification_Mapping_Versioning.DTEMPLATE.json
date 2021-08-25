@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "7Kpkq7kZpQOkilWw83bmOe",
+    "id" : "2G4JjzK4Babbg9ZbpPmaG3",
     "name" : "Rule_Specification_Mapping_Versioning",
     "type" : "DTEMPLATE",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "012S1817000000000021"
+        "repoHandle" : "013O8O1700000000000G"
       },
       "contextAttributes" : [ {
         "name" : "id",
@@ -24,8 +24,8 @@
   },
   "dataFileExtension" : "zip",
   "objectRefs" : [ {
-    "id" : "acUUUHFCVQnceiVz8BxoWb",
-    "name" : "target_connection",
+    "id" : "1QLo1AA1fnkkECtkBsvQY8",
+    "name" : "source_connection",
     "type" : "Connection",
     "metadata" : {
       "modelVersion" : {
@@ -33,7 +33,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "012S180B000000000002"
+        "repoHandle" : "013O8O0B000000000006"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
@@ -44,7 +44,27 @@
     },
     "path" : "/SYS"
   }, {
-    "id" : "8pzoka2neUGjLiaimHpPq9",
+    "id" : "0RXUqT3SZSwdbKTu5XoawU",
+    "name" : "target_connection",
+    "type" : "Connection",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "013O8O0B000000000003"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "JSON",
+        "documentState" : "COMPLETE"
+      }
+    },
+    "path" : "/SYS"
+  }, {
+    "id" : "5g6I27FSYiRi6sGRAwH46r",
     "name" : "parent rule",
     "type" : "RULE_SPECIFICATION",
     "metadata" : {
@@ -53,7 +73,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "8pzoka2neUGjLiaimHpPq9"
+        "repoHandle" : "5g6I27FSYiRi6sGRAwH46r"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
@@ -63,25 +83,5 @@
       }
     },
     "path" : "/Explore/Auto_Project_Git_Version/Folder2"
-  }, {
-    "id" : "i6HRKtkqdIMkBcv69RNhwo",
-    "name" : "source_connection",
-    "type" : "Connection",
-    "metadata" : {
-      "modelVersion" : {
-        "major" : 0,
-        "minor" : 0
-      },
-      "repoInfo" : {
-        "repoHandle" : "012S180B000000000007"
-      },
-      "contextAttributes" : null,
-      "additionalInfo" : {
-        "description" : null,
-        "contentType" : "JSON",
-        "documentState" : "COMPLETE"
-      }
-    },
-    "path" : "/SYS"
   } ]
 }
