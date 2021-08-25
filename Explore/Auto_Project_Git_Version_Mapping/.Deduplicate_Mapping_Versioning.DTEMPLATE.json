@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "2tfeWKSlKCUhz3sdQNwgWb",
+    "id" : "71NuOC2tbvDgDZ1yivN0u4",
     "name" : "Deduplicate_Mapping_Versioning",
     "type" : "DTEMPLATE",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "012S181700000000001U"
+        "repoHandle" : "013O8O17000000000007"
       },
       "contextAttributes" : [ {
         "name" : "id",
@@ -24,7 +24,7 @@
   },
   "dataFileExtension" : "zip",
   "objectRefs" : [ {
-    "id" : "2dTuzhlBu2Cc0NJ3FycSuR",
+    "id" : "5ScWeM4yVWyiTiokHcb6Yj",
     "name" : "Deduplicate_target_connection",
     "type" : "Connection",
     "metadata" : {
@@ -33,7 +33,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "012S180B000000000005"
+        "repoHandle" : "013O8O0B000000000005"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
@@ -44,27 +44,7 @@
     },
     "path" : "/SYS"
   }, {
-    "id" : "6lR8jdioT6LlC2zWYr2mwh",
-    "name" : "Deduplicate_9646_2",
-    "type" : "DEDUPLICATE",
-    "metadata" : {
-      "modelVersion" : {
-        "major" : 1,
-        "minor" : 0
-      },
-      "repoInfo" : {
-        "repoHandle" : "6lR8jdioT6LlC2zWYr2mwh"
-      },
-      "contextAttributes" : null,
-      "additionalInfo" : {
-        "description" : "test desc",
-        "contentType" : "Binary",
-        "documentState" : "VALID"
-      }
-    },
-    "path" : "/Explore/Auto_Project_Git_Version/Folder2"
-  }, {
-    "id" : "92bQA6tuH4OlMCvvuUHKey",
+    "id" : "6a0MLjiMCW0ckfMmGY8aE6",
     "name" : "Deduplicate_source_connection",
     "type" : "Connection",
     "metadata" : {
@@ -73,7 +53,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "012S180B000000000008"
+        "repoHandle" : "013O8O0B00000000000A"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
@@ -83,5 +63,25 @@
       }
     },
     "path" : "/SYS"
+  }, {
+    "id" : "2AY5mKU0nocifJ7sigPHKY",
+    "name" : "Deduplicate_9646_2",
+    "type" : "DEDUPLICATE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "2AY5mKU0nocifJ7sigPHKY"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "test desc",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/Explore/Auto_Project_Git_Version/Folder2"
   } ]
 }
