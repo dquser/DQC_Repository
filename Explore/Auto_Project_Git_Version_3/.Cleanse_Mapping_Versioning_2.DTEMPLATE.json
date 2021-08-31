@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "a4LTmvWlS3PebDF7hRAMKO",
+    "id" : "k0GTipkpQAlkJ1a5w5Tbgh",
     "name" : "Cleanse_Mapping_Versioning_2",
     "type" : "DTEMPLATE",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "013O8O1700000000000J"
+        "repoHandle" : "0107TA1700000000000H"
       },
       "contextAttributes" : [ {
         "name" : "id",
@@ -24,7 +24,7 @@
   },
   "dataFileExtension" : "zip",
   "objectRefs" : [ {
-    "id" : "9e6r3M8ugsOeZGbBlnQOg4",
+    "id" : "9AXucirCzywdDE7nZ9xv6Y",
     "name" : "cleanse_target_connection",
     "type" : "Connection",
     "metadata" : {
@@ -33,7 +33,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "013O8O0B000000000007"
+        "repoHandle" : "0107TA0B000000000007"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
@@ -44,27 +44,7 @@
     },
     "path" : "/SYS"
   }, {
-    "id" : "717lgYttBYEbtalWrTIvEZ",
-    "name" : "Cleanse_TC003",
-    "type" : "CLEANSE",
-    "metadata" : {
-      "modelVersion" : {
-        "major" : 1,
-        "minor" : 0
-      },
-      "repoInfo" : {
-        "repoHandle" : "717lgYttBYEbtalWrTIvEZ"
-      },
-      "contextAttributes" : null,
-      "additionalInfo" : {
-        "description" : "Remove dictionary values",
-        "contentType" : "Binary",
-        "documentState" : "VALID"
-      }
-    },
-    "path" : "/Explore/Auto_Project_Git_Version/Folder2"
-  }, {
-    "id" : "htQG1S0CpqtgeS3qciJks1",
+    "id" : "kqtiyrCvIuqeGoybr3fPuG",
     "name" : "cleanse_source_connection",
     "type" : "Connection",
     "metadata" : {
@@ -73,7 +53,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "013O8O0B000000000002"
+        "repoHandle" : "0107TA0B000000000002"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
@@ -83,5 +63,25 @@
       }
     },
     "path" : "/SYS"
+  }, {
+    "id" : "6TFEFdxMMT0bsfVjakG6uw",
+    "name" : "Cleanse_TC003",
+    "type" : "CLEANSE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "6TFEFdxMMT0bsfVjakG6uw"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "Remove dictionary values",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/Explore/Auto_Project_Git_Version/Folder2"
   } ]
 }
