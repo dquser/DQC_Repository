@@ -1,0 +1,44 @@
+{
+  "objectInfo" : {
+    "id" : "ibxd5rHQ5gWlNAwyejda22",
+    "name" : "Labeler_character_mode_dictionary",
+    "type" : "LABELER",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "ibxd5rHQ5gWlNAwyejda22"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ {
+    "id" : "0cmn9elNP0NlrBdK47Zicd",
+    "name" : "Dictionary",
+    "type" : "DICTIONARY",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "0cmn9elNP0NlrBdK47Zicd"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "Dictionary with country names",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/Explore/Auto_Project_Labler_Versioning"
+  } ]
+}
