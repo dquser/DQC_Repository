@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "4jfCsvwoYzAkQozCQp2fK2",
+    "name" : "Labeler_builtIn_custom",
+    "type" : "LABELER",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "4jfCsvwoYzAkQozCQp2fK2"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "Labeler with built in - email and custom - number",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
