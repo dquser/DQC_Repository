@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "ibxd5rHQ5gWlNAwyejda22",
+    "id" : "1sNdEW6J23flOYL20hMHia",
     "name" : "Labeler_character_mode_dictionary",
     "type" : "LABELER",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "ibxd5rHQ5gWlNAwyejda22"
+        "repoHandle" : "1sNdEW6J23flOYL20hMHia"
       },
       "contextAttributes" : [ ],
       "additionalInfo" : {
@@ -21,7 +21,7 @@
   },
   "dataFileExtension" : "json",
   "objectRefs" : [ {
-    "id" : "0cmn9elNP0NlrBdK47Zicd",
+    "id" : "5bC0kTjXEXjjh1733Cco6y",
     "name" : "Dictionary",
     "type" : "DICTIONARY",
     "metadata" : {
@@ -30,7 +30,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0cmn9elNP0NlrBdK47Zicd"
+        "repoHandle" : "5bC0kTjXEXjjh1733Cco6y"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
