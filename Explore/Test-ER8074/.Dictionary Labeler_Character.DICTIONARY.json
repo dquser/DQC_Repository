@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "auU3syhKsy1l4ZygIacXYt",
+    "name" : "Dictionary Labeler_Character",
+    "type" : "DICTIONARY",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "auU3syhKsy1l4ZygIacXYt"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "Dictionary used for Character Labeler",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
