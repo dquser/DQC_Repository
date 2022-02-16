@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "eLmGSff4csZeziu3wUWxY4",
+    "name" : "Cleanse_Versioning_Replace_Values",
+    "type" : "CLEANSE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "eLmGSff4csZeziu3wUWxY4"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "Replace Values",
+        "contentType" : null,
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
