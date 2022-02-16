@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "8KLq3JQGWU2jDXAyuzFIW9",
+    "id" : "03CZbeUljJCh0o7fIdDpWN",
     "name" : "Mapping1",
     "type" : "DTEMPLATE",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01067H17000000000084"
+        "repoHandle" : "010ARW1700000000001B"
       },
       "contextAttributes" : [ {
         "name" : "id",
@@ -23,5 +23,45 @@
     }
   },
   "dataFileExtension" : "zip",
-  "objectRefs" : [ ]
+  "objectRefs" : [ {
+    "id" : "1F8RIajLecmcylgU2MVHOm",
+    "name" : "Cleanse_Versioning_Remove_Spaces",
+    "type" : "CLEANSE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "1F8RIajLecmcylgU2MVHOm"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "Remove Spaces",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/Explore/Auto_Project_Git_Version/Folder1"
+  }, {
+    "id" : "luj0F9tzdAMjJqxeTxHxED",
+    "name" : "source_connection",
+    "type" : "Connection",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "010ARW0B000000000002"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "Source Flat File Connection.",
+        "contentType" : "JSON",
+        "documentState" : "COMPLETE"
+      }
+    },
+    "path" : "/SYS"
+  } ]
 }
