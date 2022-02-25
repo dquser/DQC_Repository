@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "8jFCmUbDZsglrpKQoGTdop",
+    "id" : "kUuKuPTae2ncEU03FvnAyZ",
     "name" : "Parse_Prebuilt_Mapping",
     "type" : "DTEMPLATE",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "010ARW1700000000001C"
+        "repoHandle" : "0107TA17000000000017"
       },
       "contextAttributes" : [ {
         "name" : "id",
@@ -24,7 +24,7 @@
   },
   "dataFileExtension" : "zip",
   "objectRefs" : [ {
-    "id" : "7WahhsM7JXVkAgvWWJBd6G",
+    "id" : "7bmeRXszDwkjVgWvDhXmqS",
     "name" : "Parse_Versioning_Prebuilt_Default",
     "type" : "PARSE",
     "metadata" : {
@@ -33,7 +33,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "7WahhsM7JXVkAgvWWJBd6G"
+        "repoHandle" : "7bmeRXszDwkjVgWvDhXmqS"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
