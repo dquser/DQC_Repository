@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "0aEzsonZUu3jSKX4d5bxEh",
+    "id" : "lbr9KXxRCcekjD2TJcpm6h",
     "name" : "Rule_Specification_Mapping_Versioning",
     "type" : "DTEMPLATE",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0107TA17000000000012"
+        "repoHandle" : "010ARW1700000000001J"
       },
       "contextAttributes" : [ {
         "name" : "id",
@@ -24,7 +24,7 @@
   },
   "dataFileExtension" : "zip",
   "objectRefs" : [ {
-    "id" : "0pciqjw91uUkxhZSfmxMaS",
+    "id" : "62wGHtl3Uchi1Fwk67Bxex",
     "name" : "target_connection",
     "type" : "Connection",
     "metadata" : {
@@ -33,18 +33,18 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0107TA0B000000000003"
+        "repoHandle" : "010ARW0B000000000003"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
-        "description" : null,
+        "description" : "Target Flat File Connection.",
         "contentType" : "JSON",
         "documentState" : "COMPLETE"
       }
     },
     "path" : "/SYS"
   }, {
-    "id" : "8cDcXxcheLci0eIQm6qAY8",
+    "id" : "1He9CiUJvyKechbWYmMs0A",
     "name" : "parent rule",
     "type" : "RULE_SPECIFICATION",
     "metadata" : {
@@ -53,7 +53,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "8cDcXxcheLci0eIQm6qAY8"
+        "repoHandle" : "1He9CiUJvyKechbWYmMs0A"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
@@ -64,7 +64,7 @@
     },
     "path" : "/Explore/Auto_Project_Git_Version/Folder2"
   }, {
-    "id" : "2v6GU27K24skM5ltzm7ryF",
+    "id" : "luj0F9tzdAMjJqxeTxHxED",
     "name" : "source_connection",
     "type" : "Connection",
     "metadata" : {
@@ -73,11 +73,11 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0107TA0B000000000006"
+        "repoHandle" : "010ARW0B000000000002"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
-        "description" : null,
+        "description" : "Source Flat File Connection.",
         "contentType" : "JSON",
         "documentState" : "COMPLETE"
       }
