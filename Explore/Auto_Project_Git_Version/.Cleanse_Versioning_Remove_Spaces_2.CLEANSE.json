@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "jCUA7lsMPkClKkwV2WEnI0",
+    "name" : "Cleanse_Versioning_Remove_Spaces_2",
+    "type" : "CLEANSE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "jCUA7lsMPkClKkwV2WEnI0"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "Cleanse Versioning 2",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
