@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "dTcPiGvYOszinTgBOJDKUq",
+    "id" : "6f60cwg9jSmgVHm7WjZKm4",
     "name" : "Parse_Mapping",
     "type" : "DTEMPLATE",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "013O8O1700000000000K"
+        "repoHandle" : "010ARW1700000000001N"
       },
       "contextAttributes" : [ {
         "name" : "id",
