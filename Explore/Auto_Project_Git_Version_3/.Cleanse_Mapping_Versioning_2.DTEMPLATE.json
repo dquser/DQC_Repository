@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "75qcteiCFMwbpB6naB5dwY",
+    "id" : "4Ki56A7aprbiXNHzIQr1It",
     "name" : "Cleanse_Mapping_Versioning_2",
     "type" : "DTEMPLATE",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "010ARW17000000000036"
+        "repoHandle" : "010ARW1700000000003V"
       },
       "contextAttributes" : [ {
         "name" : "id",
@@ -18,7 +18,7 @@
       "additionalInfo" : {
         "description" : "A simpleMapping Using Cleanse",
         "contentType" : null,
-        "documentState" : "VALID"
+        "documentState" : "INVALID"
       }
     }
   },
@@ -44,7 +44,7 @@
     },
     "path" : "/SYS"
   }, {
-    "id" : "3hpOE1oCkBedEDa8g3AxkV",
+    "id" : "90cAOwMUAcZb1RaZDgie6I",
     "name" : "Cleanse_TC003",
     "type" : "CLEANSE",
     "metadata" : {
@@ -53,7 +53,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "3hpOE1oCkBedEDa8g3AxkV"
+        "repoHandle" : "90cAOwMUAcZb1RaZDgie6I"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
