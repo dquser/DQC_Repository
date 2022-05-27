@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "12GcNwDUQImjr8N2tMLvOJ",
+    "id" : "1CCYlpG1ozQk8XC3VJ1bAI",
     "name" : "Deduplicate_Mapping_Versioning_2",
     "type" : "DTEMPLATE",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "010ARW17000000000055"
+        "repoHandle" : "0107TA1700000000001K"
       },
       "contextAttributes" : [ {
         "name" : "id",
@@ -24,7 +24,27 @@
   },
   "dataFileExtension" : "zip",
   "objectRefs" : [ {
-    "id" : "9fnXHlcNmnbjTPfC3F0ccK",
+    "id" : "1xvIYWGQwnRgnDfIt3tCYN",
+    "name" : "Deduplicate_source_connection",
+    "type" : "Connection",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "0107TA0B000000000009"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "Source Flat File Connection.",
+        "contentType" : "JSON",
+        "documentState" : "COMPLETE"
+      }
+    },
+    "path" : "/SYS"
+  }, {
+    "id" : "5k9fEnV5Hjidb97XvtSg0D",
     "name" : "Deduplicate_target_connection",
     "type" : "Connection",
     "metadata" : {
@@ -33,7 +53,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "010ARW0B000000000006"
+        "repoHandle" : "0107TA0B000000000004"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
@@ -44,7 +64,7 @@
     },
     "path" : "/SYS"
   }, {
-    "id" : "dL57b9OikMhbEjxCvXnpQu",
+    "id" : "6Kb735GRsWrb7xICKU5Nw8",
     "name" : "Deduplicate_9646",
     "type" : "DEDUPLICATE",
     "metadata" : {
@@ -53,7 +73,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "dL57b9OikMhbEjxCvXnpQu"
+        "repoHandle" : "6Kb735GRsWrb7xICKU5Nw8"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
@@ -63,25 +83,5 @@
       }
     },
     "path" : "/Explore/Auto_Project_Git_Version/Folder2"
-  }, {
-    "id" : "0IZ1nJKj1NScUYmzKXxAOq",
-    "name" : "Deduplicate_source_connection",
-    "type" : "Connection",
-    "metadata" : {
-      "modelVersion" : {
-        "major" : 0,
-        "minor" : 0
-      },
-      "repoInfo" : {
-        "repoHandle" : "010ARW0B000000000007"
-      },
-      "contextAttributes" : null,
-      "additionalInfo" : {
-        "description" : "Source Flat File Connection.",
-        "contentType" : "JSON",
-        "documentState" : "COMPLETE"
-      }
-    },
-    "path" : "/SYS"
   } ]
 }

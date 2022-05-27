@@ -1,7 +1,7 @@
 {
   "objectInfo" : {
-    "id" : "9vyiCOrG7N4f0hxLay9yqE",
-    "name" : "Cleanse_Mapping_Versioning_2",
+    "id" : "1URnkxTgsGZi50b20TG2Of",
+    "name" : "Parse_Mapping_Versioning",
     "type" : "DTEMPLATE",
     "metadata" : {
       "modelVersion" : {
@@ -9,23 +9,23 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0107TA1700000000001L"
+        "repoHandle" : "0107TA1700000000001R"
       },
       "contextAttributes" : [ {
         "name" : "id",
         "value" : "@1"
       } ],
       "additionalInfo" : {
-        "description" : "A simpleMapping Using Cleanse",
+        "description" : "test description",
         "contentType" : null,
-        "documentState" : "INVALID"
+        "documentState" : "VALID"
       }
     }
   },
   "dataFileExtension" : "zip",
   "objectRefs" : [ {
-    "id" : "9AXucirCzywdDE7nZ9xv6Y",
-    "name" : "cleanse_target_connection",
+    "id" : "kcQDtkTnoWAgGwXkXkoSqQ",
+    "name" : "parse_target_connection",
     "type" : "Connection",
     "metadata" : {
       "modelVersion" : {
@@ -33,7 +33,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0107TA0B000000000007"
+        "repoHandle" : "0107TA0B000000000008"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
@@ -44,8 +44,28 @@
     },
     "path" : "/SYS"
   }, {
-    "id" : "kqtiyrCvIuqeGoybr3fPuG",
-    "name" : "cleanse_source_connection",
+    "id" : "8c5znmZgKZBlDoaICE4XIQ",
+    "name" : "parse_email_9517",
+    "type" : "PARSE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "8c5znmZgKZBlDoaICE4XIQ"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "parsing email",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/Explore/Auto_Project_Git_Version/Folder2"
+  }, {
+    "id" : "h7CitiCzF4IeXxpIkmRLSr",
+    "name" : "parse_source_connection",
     "type" : "Connection",
     "metadata" : {
       "modelVersion" : {
@@ -53,7 +73,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0107TA0B000000000002"
+        "repoHandle" : "0107TA0B00000000000B"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
@@ -63,25 +83,5 @@
       }
     },
     "path" : "/SYS"
-  }, {
-    "id" : "6YvxQTo4tZCjc613t4qZqF",
-    "name" : "Cleanse_TC003",
-    "type" : "CLEANSE",
-    "metadata" : {
-      "modelVersion" : {
-        "major" : 1,
-        "minor" : 0
-      },
-      "repoInfo" : {
-        "repoHandle" : "6YvxQTo4tZCjc613t4qZqF"
-      },
-      "contextAttributes" : null,
-      "additionalInfo" : {
-        "description" : "Remove dictionary values",
-        "contentType" : "Binary",
-        "documentState" : "VALID"
-      }
-    },
-    "path" : "/Explore/Auto_Project_Git_Version/Folder2"
   } ]
 }
