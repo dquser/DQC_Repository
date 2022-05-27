@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "2Jv6tlOBFcGhgA19OWL2EL",
+    "id" : "kYRSyoiE84Ng2BxcJLoPQu",
     "name" : "Rule Specification",
     "type" : "RULE_SPECIFICATION",
     "metadata" : {
@@ -9,13 +9,13 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "2Jv6tlOBFcGhgA19OWL2EL"
+        "repoHandle" : "kYRSyoiE84Ng2BxcJLoPQu"
       },
       "contextAttributes" : [ ],
       "additionalInfo" : {
         "description" : null,
         "contentType" : "Binary",
-        "documentState" : "VALID"
+        "documentState" : "INVALID"
       }
     }
   },
