@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "aO62g32BGs1gvhHnYMr9S6",
+    "id" : "8gevgvBX8SegQdDVT3ntsJ",
     "name" : "parent rule",
     "type" : "RULE_SPECIFICATION",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "aO62g32BGs1gvhHnYMr9S6"
+        "repoHandle" : "8gevgvBX8SegQdDVT3ntsJ"
       },
       "contextAttributes" : [ ],
       "additionalInfo" : {
@@ -21,27 +21,7 @@
   },
   "dataFileExtension" : "json",
   "objectRefs" : [ {
-    "id" : "0uaVunkPRlrjpJAXqkPI4y",
-    "name" : "ror_dictionary2",
-    "type" : "DICTIONARY",
-    "metadata" : {
-      "modelVersion" : {
-        "major" : 1,
-        "minor" : 0
-      },
-      "repoInfo" : {
-        "repoHandle" : "0uaVunkPRlrjpJAXqkPI4y"
-      },
-      "contextAttributes" : [ ],
-      "additionalInfo" : {
-        "description" : "example&&&!!!!",
-        "contentType" : "Binary",
-        "documentState" : "VALID"
-      }
-    },
-    "path" : "/Explore/Auto_Project_Git_Version/Folder2"
-  }, {
-    "id" : "7CrY4oYBwkRjxB4xmlFbw6",
+    "id" : "aBXCadBYc0Ye9mEUOLeys6",
     "name" : "child rule",
     "type" : "RULE_SPECIFICATION",
     "metadata" : {
@@ -50,11 +30,31 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "7CrY4oYBwkRjxB4xmlFbw6"
+        "repoHandle" : "aBXCadBYc0Ye9mEUOLeys6"
       },
       "contextAttributes" : [ ],
       "additionalInfo" : {
         "description" : "child rule",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/Explore/Auto_Project_Git_Version/Folder2"
+  }, {
+    "id" : "kWgTe6x6fspeAtfoZobOOf",
+    "name" : "ror_dictionary2",
+    "type" : "DICTIONARY",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "kWgTe6x6fspeAtfoZobOOf"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "example&&&!!!!",
         "contentType" : "Binary",
         "documentState" : "VALID"
       }
