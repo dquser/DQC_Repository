@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "9l88vmg8hGel7QKEOxwzGX",
+    "id" : "76fjjPJxOWDdxFp3NVOzaL",
     "name" : "Cleanse_Mapping_Versioning",
     "type" : "DTEMPLATE",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0107TA1700000000001B"
+        "repoHandle" : "010ARW17000000000047"
       },
       "contextAttributes" : [ {
         "name" : "id",
@@ -24,7 +24,47 @@
   },
   "dataFileExtension" : "zip",
   "objectRefs" : [ {
-    "id" : "kJ7Ks7m8p0HdKlvNSKss4h",
+    "id" : "3K5UcvDryTPiRvfyywFXmq",
+    "name" : "tgt_connection",
+    "type" : "Connection",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "010ARW0B00000000000D"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "JSON",
+        "documentState" : "COMPLETE"
+      }
+    },
+    "path" : "/SYS"
+  }, {
+    "id" : "7wdnmm8RCdKda1xBFf6hco",
+    "name" : "src_connection",
+    "type" : "Connection",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "010ARW0B00000000000B"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "JSON",
+        "documentState" : "COMPLETE"
+      }
+    },
+    "path" : "/SYS"
+  }, {
+    "id" : "d9gcZES59WibtvYe2xdcOR",
     "name" : "Cleanse_TC51",
     "type" : "CLEANSE",
     "metadata" : {
@@ -33,7 +73,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "kJ7Ks7m8p0HdKlvNSKss4h"
+        "repoHandle" : "d9gcZES59WibtvYe2xdcOR"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
@@ -43,45 +83,5 @@
       }
     },
     "path" : "/Explore/Auto_Project_Git_Version/Folder2"
-  }, {
-    "id" : "hWNHLFDOaOte7E6zQ8jGq5",
-    "name" : "src_connection",
-    "type" : "Connection",
-    "metadata" : {
-      "modelVersion" : {
-        "major" : 0,
-        "minor" : 0
-      },
-      "repoInfo" : {
-        "repoHandle" : "0107TA0B00000000000A"
-      },
-      "contextAttributes" : null,
-      "additionalInfo" : {
-        "description" : null,
-        "contentType" : "JSON",
-        "documentState" : "COMPLETE"
-      }
-    },
-    "path" : "/SYS"
-  }, {
-    "id" : "08vurvlGSk4cWQD8nCQcCC",
-    "name" : "tgt_connection",
-    "type" : "Connection",
-    "metadata" : {
-      "modelVersion" : {
-        "major" : 0,
-        "minor" : 0
-      },
-      "repoInfo" : {
-        "repoHandle" : "0107TA0B000000000005"
-      },
-      "contextAttributes" : null,
-      "additionalInfo" : {
-        "description" : null,
-        "contentType" : "JSON",
-        "documentState" : "COMPLETE"
-      }
-    },
-    "path" : "/SYS"
   } ]
 }
