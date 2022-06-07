@@ -22,7 +22,7 @@
   "dataFileExtension" : "json",
   "objectRefs" : [ {
     "id" : "8VoCUMl2X6acCfNPNVaAOm",
-    "name" : "Dictionary2_Project_Versioning",
+    "name" : "Dictionary3_Folder_Versioning_2",
     "type" : "DICTIONARY",
     "metadata" : {
       "modelVersion" : {
@@ -32,9 +32,9 @@
       "repoInfo" : {
         "repoHandle" : "8VoCUMl2X6acCfNPNVaAOm"
       },
-      "contextAttributes" : [ ],
+      "contextAttributes" : null,
       "additionalInfo" : {
-        "description" : null,
+        "description" : "Dictionary Versioning 2",
         "contentType" : "Binary",
         "documentState" : "VALID"
       }
