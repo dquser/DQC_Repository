@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "3qAxHGJwJYacCI7nxHpk8B",
+    "id" : "jJ6AbuzSGcLft1QIocjR6B",
     "name" : "Parse_Versioning_BuiltIn",
     "type" : "PARSE",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "3qAxHGJwJYacCI7nxHpk8B"
+        "repoHandle" : "jJ6AbuzSGcLft1QIocjR6B"
       },
       "contextAttributes" : [ ],
       "additionalInfo" : {
