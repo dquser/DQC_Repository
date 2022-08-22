@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "9rMHj6h3woLddyZ2RSav0T",
+    "id" : "0q4Xdpj0MwmhsBZsZhReUK",
     "name" : "Deduplicate_Mapping_Versioning",
     "type" : "DTEMPLATE",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "010ARW17000000000046"
+        "repoHandle" : "010ARW1700000000004S"
       },
       "contextAttributes" : [ {
         "name" : "id",
@@ -24,6 +24,26 @@
   },
   "dataFileExtension" : "zip",
   "objectRefs" : [ {
+    "id" : "azhK7Pt0U6JkVBzkutD6G5",
+    "name" : "Deduplicate_9646_2",
+    "type" : "DEDUPLICATE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "azhK7Pt0U6JkVBzkutD6G5"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "test desc",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/Explore/Auto_Project_Git_Version/Folder2"
+  }, {
     "id" : "9fnXHlcNmnbjTPfC3F0ccK",
     "name" : "Deduplicate_target_connection",
     "type" : "Connection",
@@ -43,26 +63,6 @@
       }
     },
     "path" : "/SYS"
-  }, {
-    "id" : "993h9WGfGFniGl8PSlNMyP",
-    "name" : "Deduplicate_9646_2",
-    "type" : "DEDUPLICATE",
-    "metadata" : {
-      "modelVersion" : {
-        "major" : 1,
-        "minor" : 0
-      },
-      "repoInfo" : {
-        "repoHandle" : "993h9WGfGFniGl8PSlNMyP"
-      },
-      "contextAttributes" : null,
-      "additionalInfo" : {
-        "description" : "test desc",
-        "contentType" : "Binary",
-        "documentState" : "VALID"
-      }
-    },
-    "path" : "/Explore/Auto_Project_Git_Version/Folder2"
   }, {
     "id" : "0IZ1nJKj1NScUYmzKXxAOq",
     "name" : "Deduplicate_source_connection",
