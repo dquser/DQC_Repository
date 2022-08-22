@@ -1,15 +1,15 @@
 {
   "objectInfo" : {
-    "id" : "3gXkXiXGZ9QeJ9fsXUzwQx",
-    "name" : "Dictionary1_Project_Versioning",
-    "type" : "DICTIONARY",
+    "id" : "6pkASy1AFdOcppEgzMV2eM",
+    "name" : "Deduplication_Versioning_Mode",
+    "type" : "DEDUPLICATE",
     "metadata" : {
       "modelVersion" : {
         "major" : 1,
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "3gXkXiXGZ9QeJ9fsXUzwQx"
+        "repoHandle" : "6pkASy1AFdOcppEgzMV2eM"
       },
       "contextAttributes" : [ ],
       "additionalInfo" : {
